@@ -1,5 +1,6 @@
 # M1-M2_Project 
 
+
 ## Prediction of Avalanche danger level in the Davos region with meteo data from the Weissfluhjoch station
 
 
@@ -15,6 +16,7 @@ Please refer to the following 2 files:
 
 ### Author
 Lionel Perret
+University of Bern / CAS Applied data Science
 
 
 ### License
