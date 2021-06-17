@@ -4,7 +4,7 @@
 
 
 ### Installation:
-Pls copy the full repository locally and open ProjectM2.ipynb Notebook (This code does not run on Colab)
+Pls copy the full repository locally and run "ProjectM2.ipynb" from the Notebook folder (This code does not run on Colab)
 
 
 ### More information on the project:
