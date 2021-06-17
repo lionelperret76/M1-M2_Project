@@ -15,8 +15,7 @@ Please refer to the following 2 files:
 
 
 ### Author
-Lionel Perret
-University of Bern / CAS Applied data Science
+Lionel Perret / University of Bern / CAS Applied data Science
 
 
 ### License
