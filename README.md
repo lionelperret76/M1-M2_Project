@@ -10,8 +10,8 @@ Pls copy the full repository locally and run "ProjectM2.ipynb" from the Notebook
 
 ### More information on the project:
 Please refer to the following 2 files:
-- Lionel_Perret-CAS-ADS-M1_M2-Project_Report.pdf
-- Lionel_Perret-CAS-ADS-M2-Poster.pdf
+- "Lionel_Perret-CAS-ADS-M1_M2-Project_Report.pdf"
+- "Lionel_Perret-CAS-ADS-M2-Poster.pdf"
 
 
 ### Author
