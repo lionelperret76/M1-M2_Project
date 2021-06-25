@@ -2,7 +2,7 @@
 
 
 ## Prediction of Avalanche danger level in the Davos region with meteo data from the Weissfluhjoch station
-
+![cover image](Printscreen/image1.png)
 
 ### Installation:
 Pls copy the full repository locally and run "ProjectM2.ipynb" from the Notebook folder (This code does not run on Colab)
